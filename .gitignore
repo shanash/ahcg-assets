@@ -1,0 +1,12 @@
+# Cached image/model/asset files (managed via Cloudflare R2)
+images/
+models/
+assetbundles/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Credentials
+.env
+*.key
